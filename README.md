@@ -1,4 +1,4 @@
-#C++ Exam
+**C++ Exam**
 
 This program written in C++ contains a databse of different types of students such as:
 Preparatory student
