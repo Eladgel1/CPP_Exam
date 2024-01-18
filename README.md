@@ -1,8 +1,8 @@
 **C++ Exam**
 
 This program written in C++ contains a databse of different types of students such as:
-Preparatory student
-First Degree student
+Preparatory student,
+First Degree student, and
 Second Degree degree student.
 
 The database is managed by a college, which allows the user to perform a certain actions based on the output that enters into the system.
