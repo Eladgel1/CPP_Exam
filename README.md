@@ -6,4 +6,4 @@ First Degree student
 Second Degree degree student.
 
 The database is managed by a college, which allows the user to perform a certain actions based on the output that enters into the system.
-The main function in the program will open a menu for the user where he can perform various actions according to his choices
+The main function in the program will open a menu for the user where he can perform various actions according to his choices.
